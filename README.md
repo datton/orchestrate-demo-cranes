@@ -1,7 +1,7 @@
 # The Story of Cranes
 
-A text-only website on how cranes evolved in construction and the main technology changes along the way.
-Static HTML, CSS and JavaScript. No build step, no images, no video.
+A plain-text website on how cranes evolved in construction and the main technology changes along the way.
+Static HTML, CSS and JavaScript. No build step and no video. The only image is the footer QR code.
 
 ## Pages
 - `index.html`: Home
@@ -17,4 +17,4 @@ Static HTML, CSS and JavaScript. No build step, no images, no video.
 - `css/site.css`: base styles
 - `js/nav.js`: menu behaviour
 - `js/app.js`: page behaviour
-- `assets/`: reserved (the brief asks for no images)
+- `assets/`: the footer QR code (`qr-site.svg`)
